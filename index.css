@@ -40,6 +40,20 @@ body {
     padding: 10px;
 }
 
+.top-right-button {
+    margin-left: auto; /* Align to the right */
+    padding: 10px 20px;
+    font-size: 1em;
+    background-color: #e0a66a;
+    color: #4d3a2c;
+    border: none;
+    cursor: pointer;
+}
+
+.top-right-button:hover {
+    background-color: #d08a55;
+}
+
 /* ************************** */
 /* Style for the home section */
 /* ************************** */
